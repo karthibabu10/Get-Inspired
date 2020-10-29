@@ -1,4 +1,6 @@
 import './App.css';
+import Quotes from "./components/quotes";
+
 function App() {
     return (
       <div className="App">
@@ -7,3 +9,4 @@ function App() {
       </div>
     );
   }
+  
