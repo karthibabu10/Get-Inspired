@@ -7,9 +7,14 @@
 body {
   font-family: "Roboto", sans-serif;
   background: #686bb5;
+}
 #quote-box {
   background: white;
 
 width: 40rem;
 margin: 10rem auto;
-border-radius: 5px;}
+border-radius: 5px;
+}
+#text {
+  font-size: 2rem;
+}
