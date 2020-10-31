@@ -24,3 +24,6 @@ const getquote = () =>{
 
 
 }
+const handleClick = () =>{
+    getquote()
+}
