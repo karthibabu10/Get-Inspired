@@ -19,3 +19,6 @@ border-radius: 5px;
   font-size: 2rem;
   margin-bottom: 1.5rem;
 }
+#author {
+  display: flex;
+}
