@@ -14,6 +14,7 @@ body {
 width: 40rem;
 margin: 10rem auto;
 border-radius: 5px;
+padding: 3rem;
 }
 #text {
   font-size: 2rem;
@@ -21,12 +22,3 @@ border-radius: 5px;
 }
 #author {
   display: flex;
-  justify-content: flex-end;
-  font-size: 1.2rem;
-}
-#new-quote {
-  background: #d157cb;
-  border: none;
-  color: white;
-  padding: 0.7rem 1rem;
-}
