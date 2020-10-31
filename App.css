@@ -27,4 +27,6 @@ border-radius: 5px;
 #new-quote {
   background: #d157cb;
   border: none;
+  color: white;
+  padding: 0.7rem 1rem;
 }
