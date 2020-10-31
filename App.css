@@ -23,3 +23,9 @@ padding: 3rem;
 #author {
   display: flex;
   justify-content: flex-end;
+  font-size: 1.2rem;
+}
+#new-quote {
+  background: #d157cb;
+  border: none;
+}
