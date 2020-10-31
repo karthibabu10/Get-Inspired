@@ -27,3 +27,18 @@ const getquote = () =>{
 const handleClick = () =>{
     getquote()
 }
+return(
+    <div id="quote-box">
+        <div id="text">
+            
+            <p>
+            {quote}
+            </p>
+            <div id="author"><p>
+{author}</p></div>
+</div>
+    </div>
+
+
+        )
+}
