@@ -24,3 +24,6 @@ border-radius: 5px;
   justify-content: flex-end;
   font-size: 1.2rem;
 }
+#new-quote {
+  background: #d157cb;
+}
