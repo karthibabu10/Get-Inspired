@@ -36,6 +36,9 @@ return(
             </p>
             <div id="author"><p>
 {author}</p></div>
+<button onClick ={handleClick} id="new-quote">
+                    New quote
+                </button>
 </div>
     </div>
 
